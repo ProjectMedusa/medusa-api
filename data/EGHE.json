@@ -1,0 +1,34 @@
+[
+	{
+		"ident": "14",
+		"tora": 623,
+		"toda": 623,
+		"asda": 623,
+		"lda": 603,
+		"intersections": []
+	},
+	{
+		"ident": "32",
+		"tora": 647,
+		"toda": 647,
+		"asda": 647,
+		"lda": 603,
+		"intersections": []
+	},
+	{
+		"ident": "09",
+		"tora": 523,
+		"toda": 523,
+		"asda": 523,
+		"lda": 523,
+		"intersections": []
+	},
+	{
+		"ident": "27",
+		"tora": 510,
+		"toda": 510,
+		"asda": 510,
+		"lda": 501,
+		"intersections": []
+	}
+]

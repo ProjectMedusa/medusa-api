@@ -1,0 +1,48 @@
+[
+	{
+		"ident": "05",
+		"tora": 1887,
+		"toda": 2037,
+		"asda": 1887,
+		"lda": 1820,
+		"intersections": [
+			{
+				"intx": "RWY 11",
+				"tora": 947,
+				"toda": 1097,
+				"asda": 947
+			}
+		]
+	},
+	{
+		"ident": "23",
+		"tora": 1820,
+		"toda": 1970,
+		"asda": 1820,
+		"lda": 1820,
+		"intersections": [
+			{
+				"intx": "RWY 11",
+				"tora": 846,
+				"toda": 996,
+				"asda": 846
+			}
+		]
+	},
+	{
+		"ident": "11",
+		"tora": 700,
+		"toda": 700,
+		"asda": 700,
+		"lda": 700,
+		"intersections": []
+	},
+	{
+		"ident": "29",
+		"tora": 700,
+		"toda": 700,
+		"asda": 700,
+		"lda": 700,
+		"intersections": []
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"ident": "06",
+		"tora": 1690,
+		"toda": 1799,
+		"asda": 1690,
+		"lda": 1490,
+		"intersections": [
+			{
+				"intx": "D",
+				"tora": 945,
+				"toda": 1054,
+				"asda": 945
+			},
+			{
+				"intx": "C",
+				"tora": 747,
+				"toda": 856,
+				"asda": 747
+			},
+			{
+				"intx": "F",
+				"tora": 721,
+				"toda": 830,
+				"asda": 721
+			}
+		]
+	},
+	{
+		"ident": "24",
+		"tora": 1690,
+		"toda": 1690,
+		"asda": 1690,
+		"lda": 1446,
+		"intersections": [
+			{
+				"intx": "F",
+				"tora": 850,
+				"toda": 959,
+				"asda": 850
+			},
+			{
+				"intx": "C",
+				"tora": 827,
+				"toda": 936,
+				"asda": 827
+			},
+			{
+				"intx": "D",
+				"tora": 631,
+				"toda": 740,
+				"asda": 631
+			}
+		]
+	},
+	{
+		"ident": "01",
+		"tora": 756,
+		"toda": 877,
+		"asda": 756,
+		"lda": 756,
+		"intersections": [
+			{
+				"intx": "RWY 24",
+				"tora": 633,
+				"toda": 754,
+				"asda": 633
+			}
+		]
+	},
+	{
+		"ident": "19",
+		"tora": 877,
+		"toda": 1033,
+		"asda": 877,
+		"lda": 756,
+		"intersections": [
+			{
+				"intx": "B",
+				"tora": 664,
+				"toda": 820,
+				"asda": 664
+			}
+		]
+	}
+]

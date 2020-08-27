@@ -1,0 +1,57 @@
+[
+	{
+		"ident": "04",
+		"tora": 1962,
+		"toda": 2109,
+		"asda": 1962,
+		"lda": 1660,
+		"intersections": [
+			{
+				"intx": "D",
+				"tora": 1466,
+				"toda": 1613,
+				"asda": 1466
+			},
+			{
+				"intx": "A",
+				"tora": 1083,
+				"toda": 1230,
+				"asda": 1083
+			}
+		]
+	},
+	{
+		"ident": "22",
+		"tora": 2042,
+		"toda": 2208,
+		"asda": 2042,
+		"lda": null,
+		"intersections": [
+			{
+				"intx": "For Beluga operations only.",
+				"tora": 2093,
+				"toda": 2259,
+				"asda": 2093
+			},
+			{
+				"intx": "G",
+				"tora": 1264,
+				"toda": 1430,
+				"asda": 1264
+			},
+			{
+				"intx": "A",
+				"tora": 911,
+				"toda": 1077,
+				"asda": 911
+			}
+		]
+	},
+	{
+		"tora": null,
+		"toda": null,
+		"asda": null,
+		"lda": null,
+		"intersections": []
+	}
+]

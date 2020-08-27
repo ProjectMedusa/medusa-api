@@ -1,0 +1,54 @@
+[
+	{
+		"ident": "06",
+		"tora": 1799,
+		"toda": 1799,
+		"asda": 1799,
+		"lda": 1710,
+		"intersections": [
+			{
+				"intx": "F1",
+				"tora": 1216,
+				"toda": 1216,
+				"asda": 1216
+			},
+			{
+				"intx": "RWY 16",
+				"tora": 943,
+				"toda": 943,
+				"asda": 943
+			}
+		]
+	},
+	{
+		"ident": "24",
+		"tora": 1710,
+		"toda": 1710,
+		"asda": 1710,
+		"lda": 1710,
+		"intersections": [
+			{
+				"intx": "RWY 16",
+				"tora": 827,
+				"toda": 827,
+				"asda": 827
+			}
+		]
+	},
+	{
+		"ident": "16",
+		"tora": 787,
+		"toda": 787,
+		"asda": 787,
+		"lda": 787,
+		"intersections": []
+	},
+	{
+		"ident": "34",
+		"tora": 967,
+		"toda": 967,
+		"asda": 967,
+		"lda": 767,
+		"intersections": []
+	}
+]

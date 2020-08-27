@@ -1,0 +1,66 @@
+[
+	{
+		"ident": "02",
+		"tora": 2070,
+		"toda": 2208,
+		"asda": 2070,
+		"lda": 2070,
+		"intersections": [
+			{
+				"intx": "Take off from abeam Holding point U.",
+				"tora": 800,
+				"toda": 937,
+				"asda": 800
+			},
+			{
+				"intx": "Take off from abeam Holding point S.",
+				"tora": 772,
+				"toda": 910,
+				"asda": 772
+			}
+		]
+	},
+	{
+		"ident": "20",
+		"tora": 2196,
+		"toda": 2196,
+		"asda": 2196,
+		"lda": 1950,
+		"intersections": [
+			{
+				"intx": "Take off from abeam Holding point A.",
+				"tora": 1846,
+				"toda": 1846,
+				"asda": 1846
+			},
+			{
+				"intx": "Take off from abeam Holding point S.",
+				"tora": 1325,
+				"toda": 1325,
+				"asda": 1325
+			},
+			{
+				"intx": "Take off from abeam Holding point U.",
+				"tora": 1300,
+				"toda": 1300,
+				"asda": 1300
+			}
+		]
+	},
+	{
+		"ident": "08",
+		"tora": 769,
+		"toda": 769,
+		"asda": 799,
+		"lda": 799,
+		"intersections": []
+	},
+	{
+		"ident": "26",
+		"tora": 799,
+		"toda": 799,
+		"asda": 799,
+		"lda": 701,
+		"intersections": []
+	}
+]

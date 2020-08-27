@@ -1,0 +1,67 @@
+[
+	{
+		"ident": "07",
+		"tora": 2780,
+		"toda": 3073,
+		"asda": 2780,
+		"lda": 2780,
+		"intersections": [
+			{
+				"intx": "D",
+				"tora": 2654,
+				"toda": 2947,
+				"asda": 2654
+			},
+			{
+				"intx": "RWY 35",
+				"tora": 2197,
+				"toda": 2490,
+				"asda": 2197
+			},
+			{
+				"intx": "B",
+				"tora": 1204,
+				"toda": 1497,
+				"asda": 1204
+			}
+		]
+	},
+	{
+		"ident": "25",
+		"tora": 2780,
+		"toda": 3179,
+		"asda": 2780,
+		"lda": 2780,
+		"intersections": [
+			{
+				"intx": "B",
+				"tora": 1607,
+				"toda": 2006,
+				"asda": 1607
+			}
+		]
+	},
+	{
+		"ident": "17",
+		"tora": 1791,
+		"toda": 1889,
+		"asda": 1791,
+		"lda": 1791,
+		"intersections": [
+			{
+				"intx": "C",
+				"tora": 1732,
+				"toda": 1830,
+				"asda": 1732
+			}
+		]
+	},
+	{
+		"ident": "35",
+		"tora": 1892,
+		"toda": 2111,
+		"asda": 1892,
+		"lda": 1799,
+		"intersections": []
+	}
+]

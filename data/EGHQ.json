@@ -1,0 +1,56 @@
+[
+	{
+		"ident": "12",
+		"tora": 2637,
+		"toda": 2937,
+		"asda": 2637,
+		"lda": 2637,
+		"intersections": [
+			{
+				"intx": "B1",
+				"tora": 1920,
+				"toda": 2220,
+				"asda": 1920
+			},
+			{
+				"intx": "C1",
+				"tora": 1271,
+				"toda": 1571,
+				"asda": 1271
+			},
+			{
+				"intx": "E1",
+				"tora": 1222,
+				"toda": 1522,
+				"asda": 1222
+			}
+		]
+	},
+	{
+		"ident": "30",
+		"tora": 2744,
+		"toda": 3044,
+		"asda": 2744,
+		"lda": 2444,
+		"intersections": [
+			{
+				"intx": "E1",
+				"tora": 1441,
+				"toda": 1741,
+				"asda": 1441
+			},
+			{
+				"intx": "C1",
+				"tora": 1391,
+				"toda": 1691,
+				"asda": 1391
+			},
+			{
+				"intx": "B1",
+				"tora": 743,
+				"toda": 1043,
+				"asda": 743
+			}
+		]
+	}
+]

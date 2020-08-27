@@ -1,0 +1,224 @@
+[
+	{
+		"ident": "09L",
+		"tora": 3901,
+		"toda": 3901,
+		"asda": 3901,
+		"lda": 3592,
+		"intersections": [
+			{
+				"intx": "A12",
+				"tora": 3362,
+				"toda": 3362,
+				"asda": 3362
+			},
+			{
+				"intx": "A11",
+				"tora": 2838,
+				"toda": 2838,
+				"asda": 2838
+			},
+			{
+				"intx": "A10W",
+				"tora": 2661,
+				"toda": 2661,
+				"asda": 2661
+			},
+			{
+				"intx": "A10E",
+				"tora": 2354,
+				"toda": 2354,
+				"asda": 2354
+			},
+			{
+				"intx": "A9W",
+				"tora": 1992,
+				"toda": 1992,
+				"asda": 1992
+			},
+			{
+				"intx": "A9E",
+				"tora": 1789,
+				"toda": 1789,
+				"asda": 1789
+			}
+		]
+	},
+	{
+		"ident": "27R",
+		"tora": 3882,
+		"toda": 3960,
+		"asda": 3882,
+		"lda": 3882,
+		"intersections": [
+			{
+				"intx": "A4",
+				"tora": 3539,
+				"toda": 3617,
+				"asda": 3539
+			},
+			{
+				"intx": "A5",
+				"tora": 3136,
+				"toda": 3214,
+				"asda": 3136
+			},
+			{
+				"intx": "A6",
+				"tora": 2862,
+				"toda": 2940,
+				"asda": 2862
+			},
+			{
+				"intx": "A7",
+				"tora": 2617,
+				"toda": 2695,
+				"asda": 2617
+			},
+			{
+				"intx": "A8",
+				"tora": 2414,
+				"toda": 2492,
+				"asda": 2414
+			},
+			{
+				"intx": "A9E",
+				"tora": 2142,
+				"toda": 2220,
+				"asda": 2142
+			},
+			{
+				"intx": "A9W",
+				"tora": 1947,
+				"toda": 2025,
+				"asda": 1947
+			}
+		]
+	},
+	{
+		"ident": "09R",
+		"tora": 3658,
+		"toda": 3658,
+		"asda": 3658,
+		"lda": 3350,
+		"intersections": [
+			{
+				"intx": "N10",
+				"tora": 3528,
+				"toda": 3528,
+				"asda": 3528
+			},
+			{
+				"intx": "N8",
+				"tora": 3351,
+				"toda": 3351,
+				"asda": 3351
+			},
+			{
+				"intx": "S7",
+				"tora": 2853,
+				"toda": 2853,
+				"asda": 2853
+			},
+			{
+				"intx": "N7",
+				"tora": 2852,
+				"toda": 2852,
+				"asda": 2852
+			},
+			{
+				"intx": "N6",
+				"tora": 2325,
+				"toda": 2325,
+				"asda": 2325
+			},
+			{
+				"intx": "S6",
+				"tora": 2244,
+				"toda": 2244,
+				"asda": 2244
+			},
+			{
+				"intx": "N5W",
+				"tora": 1704,
+				"toda": 1704,
+				"asda": 1704
+			}
+		]
+	},
+	{
+		"ident": "27L",
+		"tora": 3658,
+		"toda": 3658,
+		"asda": 3658,
+		"lda": 3658,
+		"intersections": [
+			{
+				"intx": "N2E",
+				"tora": 3536,
+				"toda": 3536,
+				"asda": 3536
+			},
+			{
+				"intx": "N2W",
+				"tora": 3380,
+				"toda": 3380,
+				"asda": 3380
+			},
+			{
+				"intx": "N3",
+				"tora": 3224,
+				"toda": 3224,
+				"asda": 3224
+			},
+			{
+				"intx": "S3",
+				"tora": 3212,
+				"toda": 3212,
+				"asda": 3212
+			},
+			{
+				"intx": "N4E",
+				"tora": 2702,
+				"toda": 2702,
+				"asda": 2702
+			},
+			{
+				"intx": "S4W",
+				"tora": 2606,
+				"toda": 2606,
+				"asda": 2606
+			},
+			{
+				"intx": "S4E",
+				"tora": 2589,
+				"toda": 2589,
+				"asda": 2589
+			},
+			{
+				"intx": "N4W",
+				"tora": 2441,
+				"toda": 2441,
+				"asda": 2441
+			},
+			{
+				"intx": "S5E",
+				"tora": 2222,
+				"toda": 2222,
+				"asda": 2222
+			},
+			{
+				"intx": "N5E",
+				"tora": 2091,
+				"toda": 2091,
+				"asda": 2091
+			},
+			{
+				"intx": "S5W",
+				"tora": 2081,
+				"toda": 2081,
+				"asda": 2081
+			}
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"ident": "14",
+		"tora": 2113,
+		"toda": 3169,
+		"asda": 2113,
+		"lda": 1802,
+		"intersections": [
+			{
+				"intx": "HOLDINGPOINT E2",
+				"tora": 1933,
+				"toda": 2900,
+				"asda": 1933
+			},
+			{
+				"intx": "RWY 14",
+				"tora": 1802,
+				"toda": 2703,
+				"asda": 1803
+			},
+			{
+				"intx": "A",
+				"tora": 1508,
+				"toda": 2262,
+				"asda": 1508
+			},
+			{
+				"intx": "F",
+				"tora": 1433,
+				"toda": 2150,
+				"asda": 1433
+			},
+			{
+				"intx": "M",
+				"tora": 1251,
+				"toda": 1877,
+				"asda": 1251
+			},
+			{
+				"intx": "L",
+				"tora": 963,
+				"toda": 1445,
+				"asda": 963
+			}
+		]
+	},
+	{
+		"ident": "32",
+		"tora": 2190,
+		"toda": 2389,
+		"asda": 2190,
+		"lda": 1916,
+		"intersections": [
+			{
+				"intx": "RWY 32",
+				"tora": 1916,
+				"toda": 2113,
+				"asda": 1913
+			},
+			{
+				"intx": "D",
+				"tora": 1627,
+				"toda": 1826,
+				"asda": 1627
+			},
+			{
+				"intx": "L",
+				"tora": 1118,
+				"toda": 1317,
+				"asda": 1118
+			}
+		]
+	}
+]

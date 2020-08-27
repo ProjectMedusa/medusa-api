@@ -1,0 +1,38 @@
+[
+	{
+		"ident": "05",
+		"tora": 1739,
+		"toda": 1799,
+		"asda": 1739,
+		"lda": 1604,
+		"intersections": [
+			{
+				"intx": "C",
+				"tora": 1016,
+				"toda": 1076,
+				"asda": 1016
+			},
+			{
+				"intx": "D",
+				"tora": 978,
+				"toda": 1039,
+				"asda": 978
+			}
+		]
+	},
+	{
+		"ident": "23",
+		"tora": 1739,
+		"toda": 1799,
+		"asda": 1799,
+		"lda": 1604,
+		"intersections": [
+			{
+				"intx": "BOR F",
+				"tora": 1189,
+				"toda": 1249,
+				"asda": 1249
+			}
+		]
+	}
+]

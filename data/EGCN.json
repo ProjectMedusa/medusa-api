@@ -1,0 +1,44 @@
+[
+	{
+		"ident": "02",
+		"tora": 2894,
+		"toda": 2984,
+		"asda": 2894,
+		"lda": 2742,
+		"intersections": [
+			{
+				"intx": "B",
+				"tora": 1844,
+				"toda": 1904,
+				"asda": 1813
+			},
+			{
+				"intx": "C",
+				"tora": 993,
+				"toda": 1060,
+				"asda": 970
+			}
+		]
+	},
+	{
+		"ident": "20",
+		"tora": 2894,
+		"toda": 3057,
+		"asda": 2894,
+		"lda": 2605,
+		"intersections": [
+			{
+				"intx": "A7",
+				"tora": 2751,
+				"toda": 2864,
+				"asda": 2702
+			},
+			{
+				"intx": "C",
+				"tora": 1949,
+				"toda": 2086,
+				"asda": 1923
+			}
+		]
+	}
+]

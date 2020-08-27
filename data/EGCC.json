@@ -1,0 +1,91 @@
+[
+	{
+		"ident": "05R",
+		"tora": 3047,
+		"toda": 3347,
+		"asda": 3047,
+		"lda": 2864,
+		"intersections": []
+	},
+	{
+		"ident": "23L",
+		"tora": 3200,
+		"toda": 3500,
+		"asda": 3200,
+		"lda": 2864,
+		"intersections": [
+			{
+				"intx": "VA",
+				"tora": 3121,
+				"toda": 3421,
+				"asda": 3121
+			},
+			{
+				"intx": "VB",
+				"tora": 2955,
+				"toda": 3255,
+				"asda": 2955
+			},
+			{
+				"intx": "U",
+				"tora": 2849,
+				"toda": 3149,
+				"asda": 2849
+			},
+			{
+				"intx": "VC",
+				"tora": 2504,
+				"toda": 2804,
+				"asda": 2504
+			}
+		]
+	},
+	{
+		"ident": "05L",
+		"tora": 3014,
+		"toda": 3229,
+		"asda": 3014,
+		"lda": 2587,
+		"intersections": [
+			{
+				"intx": "AG",
+				"tora": 2771,
+				"toda": 2986,
+				"asda": 2771
+			},
+			{
+				"intx": "AF",
+				"tora": 2432,
+				"toda": 2647,
+				"asda": 2432
+			},
+			{
+				"intx": "B",
+				"tora": 2036,
+				"toda": 2251,
+				"asda": 2036
+			}
+		]
+	},
+	{
+		"ident": "23R",
+		"tora": 2897,
+		"toda": 3197,
+		"asda": 2897,
+		"lda": 2714,
+		"intersections": [
+			{
+				"intx": "M",
+				"tora": 2567,
+				"toda": 2867,
+				"asda": 2567
+			},
+			{
+				"intx": "H",
+				"tora": 2121,
+				"toda": 2421,
+				"asda": 2121
+			}
+		]
+	}
+]

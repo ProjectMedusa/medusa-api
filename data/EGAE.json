@@ -1,0 +1,44 @@
+[
+	{
+		"ident": "08",
+		"tora": 1932,
+		"toda": 2898,
+		"asda": 1932,
+		"lda": 1847,
+		"intersections": [
+			{
+				"intx": "E",
+				"tora": 1510,
+				"toda": 2265,
+				"asda": 1510
+			},
+			{
+				"intx": "D",
+				"tora": 1260,
+				"toda": 1890,
+				"asda": 1260
+			},
+			{
+				"intx": "B",
+				"tora": 804,
+				"toda": 1206,
+				"asda": 804
+			}
+		]
+	},
+	{
+		"ident": "26",
+		"tora": 1969,
+		"toda": 2267,
+		"asda": 1969,
+		"lda": 1969,
+		"intersections": [
+			{
+				"intx": "B",
+				"tora": 1151,
+				"toda": 1449,
+				"asda": 1151
+			}
+		]
+	}
+]
