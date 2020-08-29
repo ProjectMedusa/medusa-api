@@ -5,9 +5,9 @@
 		"toda": 2037,
 		"asda": 1887,
 		"lda": 1820,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "RWY 11",
+				"ident": "RWY 11",
 				"tora": 947,
 				"toda": 1097,
 				"asda": 947
@@ -20,9 +20,9 @@
 		"toda": 1970,
 		"asda": 1820,
 		"lda": 1820,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "RWY 11",
+				"ident": "RWY 11",
 				"tora": 846,
 				"toda": 996,
 				"asda": 846
@@ -35,7 +35,7 @@
 		"toda": 700,
 		"asda": 700,
 		"lda": 700,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "29",
@@ -43,6 +43,6 @@
 		"toda": 700,
 		"asda": 700,
 		"lda": 700,
-		"intersections": []
+		"intx": []
 	}
 ]

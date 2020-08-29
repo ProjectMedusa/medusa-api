@@ -5,20 +5,21 @@
 		"toda": 1799,
 		"asda": 1799,
 		"lda": 1710,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "F1",
+				"ident": "F1",
 				"tora": 1216,
 				"toda": 1216,
 				"asda": 1216
 			},
 			{
-				"intx": "RWY 16",
+				"ident": "RWY 16",
 				"tora": 943,
 				"toda": 943,
 				"asda": 943
 			}
-		]
+		],
+		"slope": -0.01
 	},
 	{
 		"ident": "24",
@@ -26,14 +27,15 @@
 		"toda": 1710,
 		"asda": 1710,
 		"lda": 1710,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "RWY 16",
+				"ident": "RWY 16",
 				"tora": 827,
 				"toda": 827,
 				"asda": 827
 			}
-		]
+		],
+		"slope": 0.01
 	},
 	{
 		"ident": "16",
@@ -41,7 +43,8 @@
 		"toda": 787,
 		"asda": 787,
 		"lda": 787,
-		"intersections": []
+		"intx": [],
+		"slope": -0.03
 	},
 	{
 		"ident": "34",
@@ -49,6 +52,7 @@
 		"toda": 967,
 		"asda": 967,
 		"lda": 767,
-		"intersections": []
+		"intx": [],
+		"slope": 0.03
 	}
 ]

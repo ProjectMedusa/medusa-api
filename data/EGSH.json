@@ -5,9 +5,9 @@
 		"toda": 1993,
 		"asda": 1841,
 		"lda": 1841,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "D",
+				"ident": "D",
 				"tora": 1664,
 				"toda": 1816,
 				"asda": 1664
@@ -20,9 +20,9 @@
 		"toda": 2111,
 		"asda": 1841,
 		"lda": 1841,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "B",
+				"ident": "B",
 				"tora": 1318,
 				"toda": 1588,
 				"asda": 1318

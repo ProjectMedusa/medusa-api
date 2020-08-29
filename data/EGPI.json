@@ -5,7 +5,7 @@
 		"toda": 1395,
 		"asda": 1245,
 		"lda": 1245,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "31",
@@ -13,7 +13,7 @@
 		"toda": 1395,
 		"asda": 1230,
 		"lda": 1230,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "08",
@@ -21,7 +21,7 @@
 		"toda": 635,
 		"asda": 635,
 		"lda": 635,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "26",
@@ -29,6 +29,6 @@
 		"toda": 635,
 		"asda": 635,
 		"lda": 575,
-		"intersections": []
+		"intx": []
 	}
 ]

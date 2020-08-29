@@ -5,9 +5,9 @@
 		"toda": 1428,
 		"asda": 1428,
 		"lda": 1268,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "RWY 14",
+				"ident": "RWY 14",
 				"tora": 972,
 				"toda": 972,
 				"asda": 972
@@ -20,9 +20,9 @@
 		"toda": 1428,
 		"asda": 1368,
 		"lda": 1326,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "EASTERNTAXIWAY",
+				"ident": "EASTERNTAXIWAY",
 				"tora": 1050,
 				"toda": 1110,
 				"asda": 1050
@@ -35,7 +35,7 @@
 		"toda": 560,
 		"asda": 560,
 		"lda": 560,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "32",
@@ -43,6 +43,6 @@
 		"toda": 680,
 		"asda": 680,
 		"lda": 560,
-		"intersections": []
+		"intx": []
 	}
 ]

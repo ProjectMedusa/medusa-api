@@ -5,7 +5,7 @@
 		"toda": 784,
 		"asda": 784,
 		"lda": 683,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "34",
@@ -13,7 +13,7 @@
 		"toda": 784,
 		"asda": 724,
 		"lda": 724,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "07",
@@ -21,7 +21,7 @@
 		"toda": 693,
 		"asda": 693,
 		"lda": 693,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "25",
@@ -29,7 +29,7 @@
 		"toda": 693,
 		"asda": 693,
 		"lda": 633,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "02",
@@ -37,7 +37,7 @@
 		"toda": 483,
 		"asda": 483,
 		"lda": 472,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "20",
@@ -45,7 +45,7 @@
 		"toda": 483,
 		"asda": 483,
 		"lda": 456,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "11",
@@ -53,7 +53,7 @@
 		"toda": 478,
 		"asda": 478,
 		"lda": 418,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "29",
@@ -61,6 +61,6 @@
 		"toda": 478,
 		"asda": 478,
 		"lda": null,
-		"intersections": []
+		"intx": []
 	}
 ]

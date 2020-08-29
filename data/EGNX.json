@@ -5,21 +5,21 @@
 		"toda": 3204,
 		"asda": 2923,
 		"lda": 2713,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "Take-off from abeam Holding Point H1.",
+				"ident": "Take-off from abeam Holding Point H1.",
 				"tora": 2713,
 				"toda": 3024,
 				"asda": 2743
 			},
 			{
-				"intx": "Take-off from abeam Holding Point M1.",
+				"ident": "Take-off from abeam Holding Point M1.",
 				"tora": 2079,
 				"toda": 2390,
 				"asda": 2109
 			},
 			{
-				"intx": "Take-off from abeam Holding Point S1.",
+				"ident": "Take-off from abeam Holding Point S1.",
 				"tora": 1316,
 				"toda": 1627,
 				"asda": 1346
@@ -32,21 +32,21 @@
 		"toda": 3352,
 		"asda": 2923,
 		"lda": 2763,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "Take-off from abeam Holding Point W1.",
+				"ident": "Take-off from abeam Holding Point W1.",
 				"tora": 2464,
 				"toda": 2923,
 				"asda": 2494
 			},
 			{
-				"intx": "Take-off from abeam Holding Point S1.",
+				"ident": "Take-off from abeam Holding Point S1.",
 				"tora": 1610,
 				"toda": 2069,
 				"asda": 1640
 			},
 			{
-				"intx": "Take-off from abeam Holding Point M1.",
+				"ident": "Take-off from abeam Holding Point M1.",
 				"tora": 837,
 				"toda": 1256,
 				"asda": 867

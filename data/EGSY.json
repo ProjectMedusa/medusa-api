@@ -5,7 +5,8 @@
 		"toda": 1845,
 		"asda": 1873,
 		"lda": 1777,
-		"intersections": []
+		"intx": [],
+		"slope": -0.51
 	},
 	{
 		"ident": "25",
@@ -13,6 +14,7 @@
 		"toda": 1840,
 		"asda": 1876,
 		"lda": 1815,
-		"intersections": []
+		"intx": [],
+		"slope": 0.51
 	}
 ]

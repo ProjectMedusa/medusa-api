@@ -5,7 +5,8 @@
 		"toda": 1952,
 		"asda": 1843,
 		"lda": 1628,
-		"intersections": []
+		"intx": [],
+		"slope": 0.14
 	},
 	{
 		"ident": "23",
@@ -13,7 +14,8 @@
 		"toda": 2019,
 		"asda": 1886,
 		"lda": 1742,
-		"intersections": []
+		"intx": [],
+		"slope": -0.83
 	},
 	{
 		"ident": "05G",
@@ -21,7 +23,7 @@
 		"toda": 899,
 		"asda": 899,
 		"lda": 899,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "23G",
@@ -29,6 +31,6 @@
 		"toda": 899,
 		"asda": 899,
 		"lda": 899,
-		"intersections": []
+		"intx": []
 	}
 ]

@@ -5,15 +5,18 @@
 		"toda": 2153,
 		"asda": 1953,
 		"lda": 1953,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "M7AND E9",
+				"ident": [
+					"M7",
+					"E9"
+				],
 				"tora": 1829,
 				"toda": 2029,
 				"asda": 1829
 			},
 			{
-				"intx": "RWY 23",
+				"ident": "RWY 23",
 				"tora": 1310,
 				"toda": 1510,
 				"asda": 1310
@@ -26,9 +29,9 @@
 		"toda": 2091,
 		"asda": 1953,
 		"lda": 1953,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "RWY 32",
+				"ident": "RWY 32",
 				"tora": 1190,
 				"toda": 1328,
 				"asda": 1190
@@ -41,7 +44,7 @@
 		"toda": 414,
 		"asda": null,
 		"lda": null,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "14",
@@ -49,7 +52,7 @@
 		"toda": 506,
 		"asda": null,
 		"lda": null,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "23",
@@ -57,7 +60,7 @@
 		"toda": null,
 		"asda": null,
 		"lda": 476,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "32",
@@ -65,7 +68,7 @@
 		"toda": null,
 		"asda": null,
 		"lda": 581,
-		"intersections": []
+		"intx": []
 	},
 	{
 		"ident": "36",
@@ -73,6 +76,6 @@
 		"toda": 580,
 		"asda": null,
 		"lda": null,
-		"intersections": []
+		"intx": []
 	}
 ]

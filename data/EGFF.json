@@ -5,15 +5,15 @@
 		"toda": 2503,
 		"asda": 2318,
 		"lda": 2098,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "Take-off from Holding point Bravo.",
+				"ident": "Take-off from Holding point Bravo.",
 				"tora": 2098,
 				"toda": 2283,
 				"asda": 2098
 			},
 			{
-				"intx": "Take-off from Holding point Echo.",
+				"ident": "Take-off from Holding point Echo.",
 				"tora": 1494,
 				"toda": 1679,
 				"asda": 1494
@@ -26,15 +26,15 @@
 		"toda": 2506,
 		"asda": 2354,
 		"lda": 2202,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "Take-off from Holding point Charlie.",
+				"ident": "Take-off from Holding point Charlie.",
 				"tora": 2130,
 				"toda": 2282,
 				"asda": 2130
 			},
 			{
-				"intx": "Take-off from Holding point Delta.",
+				"ident": "Take-off from Holding point Delta.",
 				"tora": 1426,
 				"toda": 1578,
 				"asda": 1426

@@ -5,9 +5,9 @@
 		"toda": 1721,
 		"asda": 1463,
 		"lda": 1463,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "CINTERSECTION",
+				"ident": "CINTERSECTION",
 				"tora": 955,
 				"toda": 1213,
 				"asda": 955
@@ -20,9 +20,9 @@
 		"toda": 1799,
 		"asda": 1583,
 		"lda": 1463,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "BINTERSECTION",
+				"ident": "BINTERSECTION",
 				"tora": 1102,
 				"toda": 1318,
 				"asda": 1102

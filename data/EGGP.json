@@ -5,14 +5,15 @@
 		"toda": 2364,
 		"asda": 2162,
 		"lda": 2101,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "D",
+				"ident": "D",
 				"tora": 1987,
 				"toda": 2189,
 				"asda": 1987
 			}
-		]
+		],
+		"slope": 0.78
 	},
 	{
 		"ident": "27",
@@ -20,19 +21,20 @@
 		"toda": 3428,
 		"asda": 2292,
 		"lda": 2285,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "G",
+				"ident": "G",
 				"tora": 2064,
 				"toda": 3099,
 				"asda": 2071
 			},
 			{
-				"intx": "F",
+				"ident": "F",
 				"tora": 1483,
 				"toda": 2225,
 				"asda": 1489
 			}
-		]
+		],
+		"slope": 0.78
 	}
 ]

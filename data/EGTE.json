@@ -5,33 +5,33 @@
 		"toda": 2252,
 		"asda": 2037,
 		"lda": 2037,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "B",
+				"ident": "B",
 				"tora": 1665,
 				"toda": 1880,
 				"asda": 1665
 			},
 			{
-				"intx": "G",
+				"ident": "G",
 				"tora": 1127,
 				"toda": 1342,
 				"asda": 1127
 			},
 			{
-				"intx": "D",
+				"ident": "D",
 				"tora": 1081,
 				"toda": 1296,
 				"asda": 1081
 			},
 			{
-				"intx": "C",
+				"ident": "C",
 				"tora": 791,
 				"toda": 1006,
 				"asda": 791
 			},
 			{
-				"intx": "E",
+				"ident": "E",
 				"tora": 787,
 				"toda": 1002,
 				"asda": 787
@@ -44,33 +44,33 @@
 		"toda": 2657,
 		"asda": 2076,
 		"lda": 2037,
-		"intersections": [
+		"intx": [
 			{
-				"intx": "F",
+				"ident": "F",
 				"tora": 1819,
 				"toda": 2400,
 				"asda": 1819
 			},
 			{
-				"intx": "C",
+				"ident": "C",
 				"tora": 1264,
 				"toda": 1845,
 				"asda": 1264
 			},
 			{
-				"intx": "D",
+				"ident": "D",
 				"tora": 973,
 				"toda": 1555,
 				"asda": 973
 			},
 			{
-				"intx": "G",
+				"ident": "G",
 				"tora": 927,
 				"toda": 1509,
 				"asda": 927
 			},
 			{
-				"intx": "E",
+				"ident": "E",
 				"tora": null,
 				"toda": 1846,
 				"asda": null
