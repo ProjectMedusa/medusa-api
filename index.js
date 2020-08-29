@@ -12,6 +12,17 @@ app.get('/api/airports/:icao', async (req, res) => {
   }
 })
 
+app.get('/coverage', (req, res) => {
+  res.sendFile(__dirname + '/html/coverage.html');
+})
+
+app.get('/coverage.json', (req, res) => {
+  res.sendFile(__dirname + '/coverage.json');
+})
+app.get('/app.js', (req, res) => {
+  res.sendFile(__dirname + '/html/app.js');
+})
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
