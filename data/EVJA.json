@@ -1,0 +1,34 @@
+[
+	{
+		"ident": "31",
+		"tora": 2502,
+		"toda": 2802,
+		"asda": 2502,
+		"lda": 2502,
+		"intx": [
+			{
+				"ident": "C",
+				"tora": 1920,
+				"toda": 2220,
+				"asda": 1920
+			}
+		],
+		"slope": null
+	},
+	{
+		"ident": "13",
+		"tora": 2502,
+		"toda": 2802,
+		"asda": 2502,
+		"lda": 2502,
+		"intx": [
+			{
+				"ident": "B",
+				"tora": 1980,
+				"toda": 2280,
+				"asda": 1980
+			}
+		],
+		"slope": null
+	}
+]
