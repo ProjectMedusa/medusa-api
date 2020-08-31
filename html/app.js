@@ -4,7 +4,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiYWlkYXNwIiwiYSI6ImNqbXluems2ZTEweWoza28xOTg5aXB6YmIifQ.wXudA2k_3vuvGPe_x7-bbQ';
 const map = new mapboxgl.Map({
 container: 'map',
-style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+style: 'mapbox://styles/mapbox/satellite-v9', // stylesheet location
 center: [10, 50],
 zoom: 4 // starting zoom
 });
