@@ -1,0 +1,76 @@
+[
+	{
+		"ident": "06",
+		"tora": 2750,
+		"toda": 3050,
+		"asda": null,
+		"lda": 2750,
+		"intx": [
+			{
+				"ident": "DTHR",
+				"tora": 3050,
+				"toda": 2750,
+				"asda": 2890
+			},
+			{
+				"ident": "A",
+				"tora": 2912,
+				"toda": 2612,
+				"asda": 2752
+			},
+			{
+				"ident": "B",
+				"tora": 2540,
+				"toda": 2240,
+				"asda": 2380
+			},
+			{
+				"ident": "C",
+				"tora": 1740,
+				"toda": 1440,
+				"asda": 1580
+			},
+			{
+				"ident": "D",
+				"tora": 1080,
+				"toda": 780,
+				"asda": 920
+			}
+		],
+		"slope": -0.06
+	},
+	{
+		"ident": "24",
+		"tora": 2750,
+		"toda": 2900,
+		"asda": null,
+		"lda": 2750,
+		"intx": [
+			{
+				"ident": "DTHR",
+				"tora": 2900,
+				"toda": 2750,
+				"asda": 2890
+			},
+			{
+				"ident": "E",
+				"tora": 2750,
+				"toda": 2600,
+				"asda": 2740
+			},
+			{
+				"ident": "D",
+				"tora": 2120,
+				"toda": 1970,
+				"asda": 2110
+			},
+			{
+				"ident": "C",
+				"tora": 1460,
+				"toda": 1310,
+				"asda": 1450
+			}
+		],
+		"slope": 0.06
+	}
+]
